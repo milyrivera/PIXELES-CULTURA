@@ -725,7 +725,7 @@
     font-weight: 300;
   }
 
-  /* ===== FOOTER ===== */
+  /* ===== footer ===== */
   footer {
     background: #000;
     padding: 40px 32px;
@@ -747,7 +747,7 @@
     text-transform: uppercase;
   }
 
-  /* ===== SCROLL ANIMATIONS ===== */
+  /* ===== animaciones de scroll ===== */
   .reveal {
     opacity: 0;
     transform: translateY(40px);
@@ -763,7 +763,7 @@
   .reveal-delay-4 { transition-delay: 0.4s; }
   .reveal-delay-5 { transition-delay: 0.5s; }
 
-  /* ===== MOBILE ===== */
+  /* ===== responsive ===== */
   @media (max-width: 768px) {
     nav { padding: 12px 16px; }
     .nav-links { display: none; }
